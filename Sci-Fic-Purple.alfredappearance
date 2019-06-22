@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#9C66CDFF",
+        "font" : "System",
+        "color" : "#5E416CFF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFF9E",
+        "font" : "System",
+        "color" : "#FFFFFF7E"
+      },
+      "backgroundSelected" : "#0000001F",
+      "text" : {
+        "size" : 21,
+        "colorSelected" : "#FF861EFF",
+        "font" : "System",
+        "color" : "#BC8E8EFF"
+      },
+      "iconPaddingHorizontal" : 6,
+      "paddingVertical" : 4,
+      "iconSize" : 44
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FF6A6E00",
+      "spacing" : 5,
+      "text" : {
+        "size" : 40,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#F4A45FFF"
+      },
+      "backgroundSelected" : "#FFBAB8FF"
+    },
+    "window" : {
+      "color" : "#381D50C9",
+      "paddingHorizontal" : 0,
+      "width" : 573,
+      "borderPadding" : 0,
+      "borderColor" : "#000000FF",
+      "blur" : 20,
+      "roundness" : 3,
+      "paddingVertical" : 5
+    },
+    "credit" : "pot-code",
+    "separator" : {
+      "color" : "#FF00B7FF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FF76009A",
+      "thickness" : 3
+    },
+    "name" : "Sci-Fic Purple"
+  }
+}
